@@ -101,11 +101,6 @@ bouton.addEventListener('click', () => {
 })
 
 
-fetch('https://api.chucknorris.io/jokes/categories')
-    .then(response=>response.json())
-    .then(data =>
-    )
-
 
 
 
